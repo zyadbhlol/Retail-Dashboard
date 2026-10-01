@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that gives executives a one-page view of retail business performance across **Egyptian cities**, covering **2022 to 2024**: revenue, orders, returns, profit, and progress against targets.
 
-![Dashboard Preview](dashboard-preview.png)
+   ![Dashboard Preview](dashboard-preview.png.png)
 
 ## Highlights
 
